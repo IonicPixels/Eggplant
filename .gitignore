@@ -1,0 +1,14 @@
+*.exe
+*.txt
+*.arc
+.vscode
+*.bms
+example
+*.mid
+*.yaz0
+*.szs
+*.rarc
+*.cit
+*.sebms
+*.bstn
+*.csv
